@@ -2,7 +2,6 @@
 
 Uma implementação moderna do clássico jogo Campo Minado, construído com React, TypeScript e Tailwind CSS.
 
-![Jogo Campo Minado](https://images.unsplash.com/photo-1675467169559-3a5b79a3c8c1)
 
 ## Funcionalidades
 
